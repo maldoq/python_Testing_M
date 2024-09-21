@@ -1,5 +1,6 @@
 bin
 include
+unittesting
 lib
 .Python
 tests/
